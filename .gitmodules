@@ -2,3 +2,7 @@
 	path = duplication-detector
 	url = git@github.com:PeterWang-dev/duplication-detector.git
 	branch = main
+[submodule "arithmetic-problems-generator"]
+	path = arithmetic-problems-generator
+	url = git@github.com:PeterWang-dev/arithmetic-problems-generator
+	branch = main
