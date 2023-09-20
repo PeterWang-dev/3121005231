@@ -1,0 +1,4 @@
+[submodule "duplication-detector"]
+	path = duplication-detector
+	url = git@github.com:PeterWang-dev/duplication-detector.git
+	branch = main
